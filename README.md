@@ -2,6 +2,8 @@ VR room
 
 This is a VR Room in Unity.
 
+![room1](https://user-images.githubusercontent.com/54521837/227373673-e435fa93-56d4-4b10-befd-b5c309104dd7.png)
+
 Teleportation:
 Point your XR ray to the carpet and teleport
 
